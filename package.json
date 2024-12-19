@@ -5,6 +5,8 @@
     "hardhat": "^2.22.17"
   },
   "dependencies": {
-    "@gelatonetwork/automate-sdk": "^3.0.35"
+    "@gelatonetwork/automate-sdk": "^3.0.35",
+    "@gelatonetwork/web3-functions-sdk": "^2.4.4",
+    "viem": "^2.21.55"
   }
 }
